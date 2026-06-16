@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 296c40e6b9ad5f144bb24a72339f8d14, type: 3}
+  m_Name: "(\uC77C\uBC187) \uC559\uAC1A\uC74C"
+  m_EditorClassIdentifier: 
+  cardId: 1common7
+  cardName: "\uC559\uAC1A\uC74C"
+  description: "10\uC758 \uBC29\uC5B4\uB3C4\uB97C \uC5BB\uACE0 \uBD84\uB178\uB97C
+    4\uC5BB\uC2B5\uB2C8\uB2E4."
+  artwork: {fileID: 21300000, guid: 152b954dc4175e44ca90c2e05743ca7c, type: 3}
+  energyCost: 1
+  hpCost: 0
+  rageCost: 0
+  baseDamage: 0
+  requiresTarget: 0
+  effects:
+  - effectType: 6
+    effectName: 
+    value: 10
+    stack: 10
+    targetType: 0
+    requiresTarget: 0
+    condition: 
+    isPassiveEffectCard: 0
+    delayTurns: 0
+    requiredRage: 0
+  - effectType: 1
+    effectName: Rage
+    value: 4
+    stack: 4
+    targetType: 0
+    requiresTarget: 0
+    condition: 
+    isPassiveEffectCard: 0
+    delayTurns: 0
+    requiredRage: 0
+  timelineAsset: {fileID: 0}
+  requiresMovement: 0
+  requiresCameraZoom: 0
+  isBanishedOnUse: 0
+  rarity: 0

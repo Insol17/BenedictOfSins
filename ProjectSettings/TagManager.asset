@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - buff
+  - HOKMA BOOK
+  - Enemy
+  - 0floor
+  - 1floor
+  - 2floor
+  - 3floor
+  - UI
+  - Card
+  - MapUI
+  - MapNodeContainer
+  - MapBackground
+  - MapRoot
+  - MapLineContainer
+  - DeckCountText
+  - GraveyardCountText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - HoverUI
+  - MapUI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 222982477
+    locked: 0

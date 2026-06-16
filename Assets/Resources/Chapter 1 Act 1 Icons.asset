@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2beb5d65e758c5a4283b38e49ee3eaad, type: 3}
+  m_Name: Chapter 1 Act 1 Icons
+  m_EditorClassIdentifier: 
+  battleIcon: {fileID: 21300000, guid: f9ab7a68d7528f746819b079b31d35b4, type: 3}
+  eliteIcon: {fileID: 21300000, guid: 433a3d5bde0a10041a76e697094bb79b, type: 3}
+  restIcon: {fileID: 21300000, guid: 37f3d1ba17f11db439983e000ce545f7, type: 3}
+  shopIcon: {fileID: 21300000, guid: 06ad15f3339555e4ea79d3f713bc7a67, type: 3}
+  eventIcon: {fileID: 21300000, guid: f4489d43fb019e14a93a436dd2e9ed8a, type: 3}
+  bossIcon: {fileID: 21300000, guid: 93f9aab9938706e4ab4239825c95d50f, type: 3}

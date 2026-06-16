@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8c3b8b640b6c6d4db32dee859ee3f14, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  scriptName: 2
+  lines:
+  - speakerName: "\uBC40"
+    dialogueText: "\uADF8\uB807\uAD70\uC694. {PlayerName}...."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 1
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC798 \uC54C\uACA0\uC2B5\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC774\uB984\uC774\uC57C \uB9D0\uB85C \uC874\uC7AC\uC758 \uD655\uC778."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC774\uC81C \uC138\uC0C1\uC774 \uB2F9\uC2E0\uC758 \uC874\uC7AC\uB97C
+      \uC54C\uAC8C \uB418\uC5C8\uC73C\uB2C8, \uB2F9\uC2E0\uC740 \uC138\uC0C1\uC744
+      \uC54C\uC544\uAC00\uBA74 \uB429\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC544\uB9C8 \uC774\uC81C\uBD80\uD130 \uB2F9\uC2E0\uC740 \uC774
+      \uB3C4\uC11C\uAD00\uC744 \uBC97\uC5B4\uB0A0 \uC218 \uC5C6\uC744 \uAC81\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uB2F9\uC2E0\uC758 \uADF8 \uC721\uCCB4\uAC00 \uD5C8\uB77D\uD558\uC9C0
+      \uC54A\uC744\uD14C\uB2C8."
+    actions: []
+  - speakerName: '{PlayerName}'
+    dialogueText: "\uADF8\uB7FC\u2026 \uB098\uB294 \uC5B4\uB5BB\uAC8C \uD574\uC57C\uD558\uC9C0?"
+    actions:
+    - actionType: 6
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: ...
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uBE48 \uADF8\uB987\uC5D0\uB294 \uCC44\uC6CC\uC57C \uD560 \uAC83\uC774
+      \uC788\uB294 \uBC95\uC774\uC9C0\uC694."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uB2F9\uC2E0\uC758 \uADF8\uB987\uC5D0\uB294 \uB2E4\uC2DC \uC0B6\uC744
+      \uCC44\uC6B0\uC2DC\uBA74 \uB429\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: '{PlayerName}'
+    dialogueText: ...?
+    actions:
+    - actionType: 6
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uBC31 \uBC88 \uB4E3\uB294 \uAC83 \uBCF4\uB2E4\uB294 \uD55C \uBC88
+      \uACBD\uD5D8\uD558\uB294 \uAC83\uC774 \uB354 \uBE60\uB974\uACA0\uAD70\uC694."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC800\uAE30 \uC81C\uB2E8\uC5D0 \uC62C\uB824\uC9C4 \uCC45\uC744
+      \uD1B5\uD574 \uB2E4\uB978 \uC138\uACC4\uB85C\uC758 \uC811\uADFC\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC138\uACC4\uC758 \uC774\uC57C\uAE30\uB97C \uAD00\uCC30\uD558\uACE0
+      \uADF8\uB4E4\uC758 \uC0B6\uC744, \uACE0\uD1B5\uC744 \uB290\uB07C\uC2ED\uC2DC\uC624."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC774 \uCC45\uC740 \uC5B4\uB514\uAE4C\uC9C0\uB098 '\uAC10\uC2DC'\uC758
+      \uC6A9\uB3C4\uB97C \uC704\uD574 \uB9CC\uB4E4\uC5B4\uC84C\uC9C0\uB9CC \uB2F9\uC2E0\uC774
+      \uAC04\uC808\uD788 \uBC14\uB780\uB2E4\uBA74 '\uAC04\uC12D'\uD558\uB294 \uD798
+      \uB610\uD55C \uC0AC\uC6A9\uD560 \uC218 \uC788\uC744\uAC81\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uADF8\uB9AC\uACE0, \uD55C \uAC00\uC9C0 \uCDA9\uACE0\uD558\uC790\uBA74."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC633\uC740 \uC120\uD0DD\uC744 \uB0B4\uB9AC\uB294 \uAC83\uC740
+      \uACB0\uCF54 \uC27D\uC9C0 \uC54A\uC744\uAC81\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC2EC\uD310\uC740, \uC8C4\uBCF4\uB2E4 \uC678\uBA74\uC5D0 \uB2FF\uC544
+      \uC788\uB294 \uBC95\uC774\uB2C8."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uADF8 \uBD84 \uAED8\uC11C\uB3C4..."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: '{PlayerName}'
+    dialogueText: "\uC544\uAE4C\uBD80\uD130 \uB9D0\uD558\uB358\uB370 '\uADF8 \uBD84'\uC740
+      \uB204\uAD6C\uC57C?"
+    actions:
+    - actionType: 6
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uB2F9\uC2E0\uC774 \uC54C \uD544\uC694\uB294 \uC5C6\uC2B5\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC7A1\uC124\uC774 \uAE38\uC5C8\uAD70\uC694."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uC774\uC81C \uC5EC\uC815\uAE38\uC5D0 \uC624\uB97C \uC2DC\uAC04\uC785\uB2C8\uB2E4."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+  - speakerName: "\uBC40"
+    dialogueText: "\uADF8\uB7FC."
+    actions:
+    - actionType: 6
+      targetName: Character 2
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 7
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 
+      soundClip: {fileID: 0}
+    - actionType: 9
+      targetName: Character 1
+      targetPosition: {x: 0, y: 0, z: 0}
+      duration: 0
+      intensity: 0
+      sceneName: 0-2.Library
+      soundClip: {fileID: 0}
+  nextSceneName: 0-2.Library
