@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - buff
+  - HOKMA BOOK
+  - Enemy
+  - 0floor
+  - 1floor
+  - 2floor
+  - 3floor
+  - UI
+  - Card
+  - MapUI
+  - MapNodeContainer
+  - MapBackground
+  - MapRoot
+  - MapLineContainer
+  - DeckCountText
+  - GraveyardCountText
   layers:
   - Default
   - TransparentFX
@@ -11,10 +27,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - HoverUI
+  - MapUI
+  - Background
   - 
   - 
   - 
@@ -41,36 +57,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  m_RenderingLayers:
-  - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - name: UI
+    uniqueID: 222982477
+    locked: 0
